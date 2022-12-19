@@ -3,7 +3,7 @@
 Projeto de finalização do módulo de POO - Programação Orientada a Objetos, professor William Santos, do curso de formação #dev_makers2, 
 em parceria entre a Sinqia e a Let's Code from Ada.
 
-Enunciado
+Enunciado - 
 A Rede Social.
 
 Você deverá implementar sua própria rede social revolucionária para se tornar o próximo bilionário da internet e se unir a nomes como Mark Zuckerberg e Elon Musk. 
